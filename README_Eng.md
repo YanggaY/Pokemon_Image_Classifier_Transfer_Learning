@@ -86,7 +86,7 @@ A simple web demo was implemented using the trained model.
 
 ## How to Run
 
-1. First, download the dataset from Kaggle or prepare a custom Pokemon sample dataset.  
+1. First, download the pokemon sample dataset from Kaggle .  
 2. Place the images into folders named after each Pokemon inside the `PokemonData` directory.  
 3. Run `train.py` to train the model and generate the `.pth` file.  
 4. After the model is successfully created, run the command below to launch the Streamlit web application.
