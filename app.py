@@ -62,7 +62,7 @@ preprocess = transforms.Compose([
 
 
 # Streamlit UI
-st.title("Pokemon Classifier ⚡")
+st.title("Pokemon Classifier")
 st.write("Upload a Pokemon image and the model will predict its class.")
 
 st.info(
