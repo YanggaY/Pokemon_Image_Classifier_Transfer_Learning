@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader, random_split
 from sklearn.metrics import precision_score, recall_score
 
 # Setting
-data_dir = '../PokemonData'
+data_dir = './PokemonData'
 MODEL_NAME = "resnet34"
 FEATURE_EXTRACT = True
 BATCH_SIZE = 32
