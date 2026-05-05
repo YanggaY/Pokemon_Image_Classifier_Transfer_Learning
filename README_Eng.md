@@ -50,7 +50,7 @@ Four different configurations were tested.
 | ResNet34 | pretrained X + feature | 0.0141 | 0.0220 |
 
 - Best performing model: **ResNet34 (pretrained + feature extraction)**
-- Worst performing model: ResNet34 (pretrained X + feature extraction X)
+- Worst performing model: ResNet34 (pretrained X + feature extraction)
 
 ---
 
